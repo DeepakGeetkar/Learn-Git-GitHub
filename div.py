@@ -1,3 +1,4 @@
 a=10
 b=20
-print ("the div is ", a/b)
+z= a/b
+print ("the div is ", z)
